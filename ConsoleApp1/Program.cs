@@ -64,7 +64,7 @@ namespace ConsoleApp1
             //09.
 
             int a = 5;
-            int b = 10;
+            int b = 11;
 
             Console.WriteLine("{0} {1}", a, b);
 
